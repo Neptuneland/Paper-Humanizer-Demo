@@ -23,10 +23,11 @@ short_description: Free AI humanizer for academic writing.
 **New users get 10 free credits (~5,000 words) — no credit card required!**
 
 1. **Visit** → [paperhumanizer.com/ai-humanizer](https://paperhumanizer.com/ai-humanizer)
-2. **Sign up** → Get 10 free credits instantly
-3. **Paste** → Your AI-generated text
-4. **Choose** → Mode (Standard/Deep) + Academic Tone
-5. **Get** → Natural, detector-resistant academic prose
+2. **Hugging Face Demo** → [Paper-Humanizer](https://huggingface.co/spaces/larry-ai/Paper-Humanizer)
+4. **Sign up** → Get 10 free credits instantly
+5. **Paste** → Your AI-generated text
+6. **Choose** → Mode (Standard/Deep) + Academic Tone
+7. **Get** → Natural, detector-resistant academic prose
 
 **👉 [Start Humanizing Free →](https://paperhumanizer.com/ai-humanizer)**
 
