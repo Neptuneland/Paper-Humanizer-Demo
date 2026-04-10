@@ -1,13 +1,3 @@
----
-title: PaperHumanizer - Free AI Humanizer for Academic Writing | Bypass GPTZero & Turnitin
-emoji: 🎓
-colorFrom: blue
-colorTo: indigo
-sdk: static
-app_file: index.html
-pinned: false
-short_description: Free AI humanizer for academic writing.
----
 
 # 🎓 PaperHumanizer - Free AI Humanizer for Academic Writing
 
